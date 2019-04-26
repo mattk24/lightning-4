@@ -1,0 +1,63 @@
+body {
+  background-color: #F9FD50;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-top-width: 5px;
+  width: 5%;
+}
+ .name {
+   color: #090089;
+   font-family: 'Courier New', Courier, monospace;
+   font-style: normal;
+   font-display: auto;
+   font-family: Lucida handwriting;
+   text-align: center;
+ }
+
+h1 {
+  color: #090089;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: normal;
+  font-display: auto;
+  font-family: Lucida handwriting;
+}
+
+h3 {
+  color: #090089;
+  font-family: cursive;
+  font-style: oblique;
+  font-display: auto;
+  font-family: Lucida handwriting;
+}
+
+p {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ed {
+  text-align: center;
+}
+
+.skill {
+  text-align: center;
+}
+
+.work {
+  text-align: center;
+}
+
+.school1 {
+  text-align: center;
+}
+
+.school2. {
+  text-align: center;
+}
