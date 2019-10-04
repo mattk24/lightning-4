@@ -10,15 +10,6 @@ hr{
   width: 5%;
 }
 
- .name {
-   color: #090089;
-   font-family: 'Courier New', Courier, monospace;
-   font-style: normal;
-   font-display: auto;
-   font-family: Lucida handwriting;
-   text-align: center;
- }
-
 h1 {
   color: #090089;
   font-family: 'Courier New', Courier, monospace;
@@ -44,6 +35,16 @@ table {
   margin-right: auto;
 }
 
+.name {
+  color: #090089;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: normal;
+  font-display: auto;
+  font-family: Lucida handwriting;
+  text-align: center;
+}
+
+
 .ed {
   text-align: center;
 }
@@ -60,6 +61,6 @@ table {
   text-align: center;
 }
 
-.school2. {
+.school2 {
   text-align: center;
 }
