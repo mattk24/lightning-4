@@ -23,6 +23,10 @@ li {
   text-align: center;
 }
 
+em {
+  font-weight: bold;
+}
+
 h3 {
   color: #090089;
   font-family: cursive;
